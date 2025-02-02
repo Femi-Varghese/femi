@@ -10,7 +10,6 @@ Leisure Corner
 ### Project Description
 A small website which hlepss you to work more on your hobbies.
 An extra feature is that  you can get links to acess different shops and accessories in the website which are needed to build on your hobbies. 
-
 ### The Problem statement
 Devlop the hidden passions.
 ### The Solution
@@ -20,68 +19,28 @@ Just a random bust of idea and ethusiasm.
 ### Technologies/Components Used
 For Software:
 - Html,CSS 
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
 ### Implementation
 For Software:
 # Installation
 [commands]
-
 # Run
 [commands]
-
 ### Project Documentation
 For Software:
-
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-Add caption explaining what this shows
-
-![Screenshot2](Add screenshot 2 here with proper name)
-Add caption explaining what this shows
-
-![Screenshot3](Add screenshot 3 here with proper name)
-Add caption explaining what this shows
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-Add caption explaining your workflow
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-Add caption explaining connections
-
-![Schematic](Add your schematic diagram here)
-Add caption explaining the schematic
+![Screenshot 1](https://github.com/user-attachments/assets/ae81013f-8acd-4106-bf5b-14f9ae0aef2a)
+Front  Page!
+![Screenshot 2](https://github.com/user-attachments/assets/1c54a447-b19b-4244-ad4c-ef29194e81e7)
+Going to next web page after clicking on a hobby.
+![Screenshot 3](https://github.com/user-attachments/assets/1c7ebcdd-a2d6-4054-a380-9271c0cbb74e)
+Redirecting to respective youtube links
 
 # Build Photos
 ![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-List out all components shown
-
-![Build](Add photos of build process here)
-Explain the build steps
-
-![Final](Add photo of final product here)
-Explain the final build
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 Explain what the video demonstrates
-
-# Additional Demos
-[Add any extra demo materials/links]
-
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Femi - Coding and front end creation
