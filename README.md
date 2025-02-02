@@ -35,8 +35,8 @@ Going to next web page after clicking on a hobby.
 ![Screenshot 3](https://github.com/user-attachments/assets/1c7ebcdd-a2d6-4054-a380-9271c0cbb74e)
 Redirecting to respective youtube links
 
-# Build Photos
-![Team](Add photo of your team here)
+# Build Photo
+Team:![WhatsApp Image 2025-02-02 at 7 26 01 AM](https://github.com/user-attachments/assets/8de251ca-3dd4-4727-8d99-beb20e1eae38)
 
 ### Project Demo
 # Video
