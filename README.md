@@ -7,23 +7,19 @@ Leisure Corner
 - Member 1: Femi Varghese-Model Engineering College,Ernakulam
 ### Hosted Project Link
 [mention your project hosted project link here]
-
 ### Project Description
-[2-3 lines about what your project does]
+A small website which hepls you to work more on your hobbies.
+An extra feature is that  you can get links to acess differnt shops and accessories in the website which are needed to build on yur hobbies. 
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
-
+Devlop the hidden passions.
 ### The Solution
-[How are you solving it? Keep it fun!]
-
+Saw hostelmates doing embrodering, playing guitar and drawing during free time.So, decided to create a small website where I  can learn allof them in  one place .
+Just a random bust of idea and ethusiasm.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Html,CSS 
 
 For Hardware:
 - [List main components]
