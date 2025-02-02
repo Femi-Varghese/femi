@@ -40,7 +40,6 @@ Team:![WhatsApp Image 2025-02-02 at 7 26 01 AM](https://github.com/user-attachme
 
 ### Project Demo
 # Video
-[Add your demo video link here]
 Explain what the video demonstrates
 ## Team Contributions
 - Femi - Coding and front end creation
