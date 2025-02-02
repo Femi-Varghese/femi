@@ -20,13 +20,7 @@ Just a random bust of idea and ethusiasm.
 For Software:
 - Html,CSS 
 ### Implementation
-For Software:
-# Installation
-[commands]
-# Run
-[commands]
-### Project Documentation
-For Software:
+For Software:https://femi1234-git-main-femi-vargheses-projects.vercel.app
 # Screenshots (Add at least 3)
 ![Screenshot 1](https://github.com/user-attachments/assets/ae81013f-8acd-4106-bf5b-14f9ae0aef2a)
 Front  Page!
@@ -39,7 +33,7 @@ Redirecting to respective youtube links
 Team:![WhatsApp Image 2025-02-02 at 7 26 01 AM](https://github.com/user-attachments/assets/8de251ca-3dd4-4727-8d99-beb20e1eae38)
 
 ### Project Demo
-# Video
+https://drive.google.com/file/d/1uSFy5Bf6NDxohXLhHM9O5wv6VS53oEDH/view?usp=sharing
 Explain what the video demonstrates
 ## Team Contributions
 - Femi - Coding and front end creation
