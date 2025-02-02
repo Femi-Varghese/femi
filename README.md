@@ -9,7 +9,7 @@ Leisure Corner
 [mention your project hosted project link here]
 ### Project Description
 A small website which hlepss you to work more on your hobbies.
-An extra feature is that  you can get links to acess differnt shops and accessories in the website which are needed to build on yur hobbies. 
+An extra feature is that  you can get links to acess different shops and accessories in the website which are needed to build on your hobbies. 
 
 ### The Problem statement
 Devlop the hidden passions.
